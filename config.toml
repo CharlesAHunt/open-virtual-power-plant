@@ -1,0 +1,10 @@
+[database]
+  host = "localhost"
+  database = "ovpp"
+  port = 5432
+  user = "todo-make-secret"
+  password = "todo-make-secret"
+
+[server]
+  host = 3
+  port = 8080
